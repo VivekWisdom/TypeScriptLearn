@@ -14,6 +14,7 @@ class PersonIs{
   }
 
   printPerson(){
+
     console.log(name);
     console.log('Hello');
     console.log('Hello');
