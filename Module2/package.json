@@ -1,0 +1,31 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "Module 2 app for EDX Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekwisdom/TypeScriptLearn.git"
+  },
+  "keywords": [
+    "typescript",
+    "edx"
+  ],
+  "author": "Vivek Wisdom",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-concat": "latest",
+    "gulp-plumber": "latest",
+    "gulp-typescript": "latest",
+    "gulp-uglify": "latest",
+    "typescript": "^2.1.6"
+  },
+  "bugs": {
+    "url": "https://github.com/vivekwisdom/TypeScriptLearn/issues"
+  },
+  "homepage": "https://github.com/vivekwisdom/TypeScriptLearn#readme"
+}
